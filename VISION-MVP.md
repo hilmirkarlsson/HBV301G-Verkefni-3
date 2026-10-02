@@ -4,11 +4,11 @@
 
 **Verkefni 3 — Vision and Scope**
 
-**Heiti kerfis:** [Heiti]
+**Heiti kerfis:** Settið
 
-**Teymi og höfundar:** [Númer teymis og full nöfn]
+**Teymi og höfundar:** Teymi 1 — Hilmir Karlsson og Silja Ástudóttir
 
-**Git repository:** [Slóð]
+**Git repository:** https://github.com/hilmirkarlsson/HBV301G-Verkefni-3
 
 ## Efnisyfirlit
 

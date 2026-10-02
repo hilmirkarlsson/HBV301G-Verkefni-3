@@ -1,13 +1,13 @@
-# Verkefni 3 – Sýn og umfang  
+# Verkefni 3 – Viðskiptamarkmið, framtíðarsýn og MVP
 
-Þetta repo er Template repo - Notaðu "Use this template" til að búa til þitt eigið repo
-fyrir verkefni 3. Uppfærðu þetta README skjal til að lýsa repo-inu þínu 
+## Heiti kerfis: Settið
+Höfundar: Hilmir Karlsson & Silja Ástudóttir (teymi 1)
 
-Þessi mappa inniheldur efnið sem beðið er um í verkefninu.
+## Lýsing á kerfinu
+Settið er einfalt app fyrir fólk sem lyftir. Notendur skrá settin sín á meðan þeir æfa, fylgja plani sem segir þeim hvað á að gera þann daginn og sjá hvort þyngdirnar eru að hækka.
 
--- **VISIONSCOPE.md 
-
--- **VERKASKIPTING-IGRUNDUN.md Í lokin lýsa nemendur verkaskiptingu og ígrunda verkefnið
-
--- **updatevisionhistory.sh - shell skripta til að búa til breytingasögu í VISIONSCOPE.md
-
+## Innihald
+Repo-ið inniheldur lausn okkar á Verkefni 3 í HBV301G Verkfræði kröfugreiningu.
+Skrárnar eru:
+- [VISION-MVP.md](VISION-MVP.md) - Viðskiptamarkmið, framtíðarsýn, prófíll lykilhagsmunaaðila, forgangsröðun og umfang fyrstu útgáfu (MVP)
+- [Vinnuferli.md](Vinnuferli.md) - Verkaskipting, ígrundun og gagnsæisyfirlýsing um notkun gervigreindar
