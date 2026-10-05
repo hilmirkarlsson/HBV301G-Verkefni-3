@@ -116,13 +116,13 @@ MVP byggir fyrst og fremst á F-1, æfingaskráningu og þeim hlutum F-3 sem sty
 
 Æfingaplanið (F-2) er hluti af framtíðarsýn vörunnar en er ekki nauðsynlegt til að skila grunnvirði til Methafans í fyrstu útgáfu. Því bíður það síðari útgáfu ásamt virkni sem beinist sérstaklega að Byrjandanum og Ráfaranum.
 
-Samkvæmt forgangsröðun verkefnisins eru eiginleikar drifkraftur og gæði og mannafli setja verkefninu takmarkanir. Því er allri mikilvægustu virkni fyrir Methafann forgangsraðað í fyrstu útgáfu, þá sérstaklega æfingaskráningunni og sýnilegum framförum. Aðrir eiginleikar, þ.á.m. æfingaplanið, geta beðið síðari útgáfu svo hægt sé að halda fyrstu útgáfunni raunhæfri innan þessara takmarkana. Þar sem tímasetningar eru frígráða er hægt að færa útgáfutímann ef nauðsynlegt er.
+Samkvæmt forgangsröðun verkefnisins eru eiginleikar drifkraftur og gæði og mannafli setja verkefninu takmarkanir. Því er mikilvægustu virkni fyrir Methafann forgangsraðað í fyrstu útgáfu, þá sérstaklega æfingaskráningunni og sýnilegum framförum. Aðrir eiginleikar, þ.á.m. æfingaplanið, geta beðið síðari útgáfu svo hægt sé að halda fyrstu útgáfunni raunhæfri innan þessara takmarkana. Þar sem tímasetningar eru frígráða er hægt að færa útgáfutímann ef nauðsynlegt er.
 
 
 ### 5.3 Hvað bíður síðari útgáfu?
 
 | Eiginleiki | Ástæða þess að hann getur beðið |
-|---|---|---|
+|---|---|
 | Sýna hvað er á dagskrá í dag (FR-7) | Mikilvægt fyrir Ráfarann en nauðsynlegt virði fyrir Methafann fæst án þess | 
 | Klára æfingu og fara sjálfkrafa í næstu (FR-8) | Þægindi fremur en kjarnavirði | 
 | Hvíldardagar (FR-9) | Bætir upplifun en er ekki nauðsynlegt til að sannreyna vöruna |
@@ -134,5 +134,4 @@ Samkvæmt forgangsröðun verkefnisins eru eiginleikar drifkraftur og gæði og 
 
 ### 5.4 Takmarkanir og útilokanir
 
-Settið er afmarkað við styrktarþjálfun og verður ekki alhliða heilsu- eða líkamsræktarapp. Matur, kaloríur, þolþjálfun, samfélagsvirkni, þjálfari eða gervigreind sem býr til æfingaplön og greiðslur eða áskriftir eru ekki hluti af fyrirhuguðu umfangi kerfisins. Þessi afmörkun byggir á mörkunum úr Verkefni 1 og eru þ.a.l. útilokuð frá heildarumfangi vörunnar en eru ekki eiginleikar sem bíða síðari útgáfu.
-
+Settið er afmarkað við styrktarþjálfun og verður ekki alhliða heilsu- eða líkamsræktarapp. Matur, kaloríur, þolþjálfun, samfélagsvirkni, þjálfari eða gervigreind sem býr til æfingaplön og greiðslur eða áskriftir eru ekki hluti af fyrirhuguðu umfangi kerfisins. Þessi afmörkun byggir á mörkunum úr Verkefni 1. Þessi atriði eru þ.a.l. útilokuð frá heildarumfangi vörunnar og eru ekki eiginleikar sem bíða síðari útgáfu.
