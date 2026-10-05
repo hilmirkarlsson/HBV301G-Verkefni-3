@@ -56,16 +56,15 @@ mestu máli fyrir framtíðarsýnina og MVP. Rökstyðjið valið. Vísið í
 verkefni 2 í stað þess að endurtaka alla hagsmunaaðilagreininguna. 
 -->
 
-**Val á notendahópi:** [Hvers vegna skiptir þessi hópur mestu máli
-fyrir fyrstu útgáfuna?]
+**Val á notendahópi:** Við veljum Methafann, einn af notendahópunum fjórum í [Verkefni 2](https://github.com/hilmirkarlsson/HBV301G-Verkefni-2/blob/main/STAKEHOLDERS.md), og persónuna Aron Bjarkason sem er fulltrúi hans. Hann skiptir mestu máli fyrir fyrstu útgáfuna vegna þess að þarfir hans, hröð skráning, síðasta sett og persónuleg met, eru kjarni vörunnar og tengjast öllum þremur viðskiptamarkmiðunum: hröð skráning heldur honum í appinu (BO-1), met eru það sem hann segir vinum frá (BO-2) og met sýna að hann er að bæta sig (BO-3). Byrjandinn og Ráfarinn þurfa fyrst og fremst plan og leiðbeiningar (F-2), og þeir sem sjá engar framfarir þurfa sömu skráningu og framfaraskjá og Methafinn (F-1 og F-3), svo hann dregur fram það sem allir hóparnir þurfa. Þróunarteymið er viðskiptavinurinn og á viðskiptamarkmiðin í kafla 1, svo það fær ekki sérstakan prófíl hér.
 
 | Atriði | Lýsing |
 |---|---|
-| Notendahópur og hlutverk | [Hverjir eru þetta og hvaða hlutverki gegna þeir?] |
-| Helsta virði (Major value) | [Hvaða ávinning fá þeir af vörunni?] |
-| Viðhorf (Attitudes) | [Hvaða væntingar eða fyrirvara hafa þeir?] |
-| Helstu áhugamál (Major interests) | [Hvaða eiginleikar og gæði skipta þá mestu máli?] |
-| Takmarkanir (Constraints) | [Hvaða þekktu skilyrði þarf að taka tillit til?] |
+| Notendahópur og hlutverk | Methafinn, beinn notandi. Reyndur lyftari sem veit hvað hann er að gera í ræktinni, skráir sett og fylgist með persónulegum metum. Persónan er Aron Bjarkason, dyravörður sem hefur æft lengi |
+| Helsta virði (Major value) | Skráir sett á nokkrum sekúndum, sér síðasta sett á sama skjá og sér persónuleg met og framfarir. Fær yfirsýn og æfir jafnt, án þess að þurfa að muna neitt (BO-1, BO-2 og BO-3) |
+| Viðhorf (Attitudes) | Þolir ekki flókin viðmót, pop-ups eða óþarfa skref og vill að appið trufli ekki æfinguna. Þarf ekki leiðbeiningar og býst við að appið sé fljótt og einfalt |
+| Helstu áhugamál (Major interests) | Hröð skráning (UR-1, QA-1), að sjá hvað hann gerði síðast (UR-2), persónuleg met (UR-6) og að appið virki án nets (SR-1) |
+| Takmarkanir (Constraints) | Notar appið í ræktinni milli setta, oft án nettengingar (SR-1). Gögnin eru hans eign og fara ekki á þjón (C-2 og BRG-1). Mæling á notkun er valfrjáls, svo hún má ekki trufla skráninguna (BO-1) |
 
 <!-- Ef þið veljið fleiri en einn hóp/aðila, gerið sérstakan prófíl
 fyrir hvern þeirra. -->
