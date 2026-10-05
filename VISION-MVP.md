@@ -49,6 +49,8 @@
 
 -->
 
+Fyrir fólk sem lyftir í ræktinni, allt frá byrjendum til þeirra sem slá met. Það vill muna hvað það gerði síðast, vita hvað er á dagskrá í dag og sjá hvernig það er að bæta sig. Settið er einfalt æfingaapp fyrir iOS og Android sem skráir sett á nokkrum sekúndum, sýnir síðasta sett á sama skjá, heldur utan um plan vikunnar og sýnir framfarir og persónuleg met. Ólíkt minnisbókinni í símanum, sem sýnir hvorki plan né þróun, virkar Settið án nets í ræktinni og geymir gögnin í símanum, svo þau eru eign notandans. Það gefur fólki ástæðu til að opna appið á hverri æfingu, svo það haldi áfram að nota það (BO-1), segi vinum sínum frá því (BO-2) og sjái að það sé að bæta sig (BO-3).
+
 ## 3. Prófíll lykilhagsmunaaðila eða mikilvægra notenda
 
 <!-- Veljið þann hóp/a úr verkefni 2 sem skipta
