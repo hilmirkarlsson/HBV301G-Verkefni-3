@@ -4,11 +4,11 @@
 
 **Verkefni 3 — Vision and Scope**
 
-**Heiti kerfis:** [Heiti]
+**Heiti kerfis:** Settið
 
-**Teymi og höfundar:** [Númer teymis og full nöfn]
+**Teymi og höfundar:** Teymi 1 — Hilmir Karlsson og Silja Ástudóttir
 
-**Git repository:** [Slóð]
+**Git repository:** https://github.com/hilmirkarlsson/HBV301G-Verkefni-3
 
 ## Efnisyfirlit
 
@@ -25,15 +25,40 @@
 <!-- Lýsið hvaða árangri viðskiptavinur eða stofnun vill ná með kerfinu og hvers vegna. Setjið fram mælanleg markmið þar sem því verður við komið: núverandi staða, æskileg breyting, mælikvarði og tímamörk. Greinið á milli viðskiptalegs árangurs og virkni kerfisins. Tengið markmiðin við þær þarfir sem komu fram í fyrri verkefnum. -->
 <!-- Takið út hornklofa og fyllið inn í - Endurtakið eftir þörfum --> 
 
-### BO-1: [Mælanlegt viðskiptamarkmið og tímamörk]
+**Vandamál og tækifæri:** Margir sem byrja í ræktinni muna ekki hvað þeir lyftu síðast, vita ekki hvað er á dagskrá og sjá ekki hvort þeir eru að bæta sig. Æfingaöpp eru oft prófuð í viku og gleymd. Settið á að gefa fólki ástæðu til að opna appið á hverri æfingu og til að segja vinum frá því.
+
+### BO-1: Fólk heldur áfram að nota Settið — 40% haldtala innan sex mánaða frá útgáfu
 
 | Atriði | Lýsing |
 |---|---|
-| Mælikvarði (Scale) | [Hvað er mælt?] |
-| Mæliaðferð (Meter) | [Hvernig og hvaðan fást mæligögn?] |
-| Fyrri staða (Past) | [Þekkt upphafsstaða en ef hún er ekki þekkt skrifið "ekki þekkt enn" og segið hvernig megi mæla hana] |
-| Markmið (Goal) | [Árangur sem stefnt er að] |
-| Metnaðarmarkmið (Stretch) | [Árangur umfram markmiðið, ef við á] |
+| Mælikvarði (Scale) | Hlutfall nýrra notenda sem skrá enn að minnsta kosti eina æfingu í viku, mánuði eftir að þeir byrjuðu að nota appið |
+| Mæliaðferð (Meter) | Nafnlaust, tilfallandi auðkenni sem búið er til við uppsetningu og notandi kveikir sjálfur á. Þjónninn fær aðeins tvær tölur: fjölda nýrra auðkenna í viku og fjölda þeirra sem skrá æfingu mánuði síðar. Engin æfingagögn fara úr símanum (lausn árekstrar í Verkefni 2) |
+| Fyrri staða (Past) | Ekki þekkt enn, því Settið er ný vara. Hún mælist fyrstu vikurnar eftir útgáfu með sömu mælingu |
+| Markmið (Goal) | 40% nýrra notenda innan sex mánaða frá útgáfu |
+| Metnaðarmarkmið (Stretch) | 50% |
+| Tengsl við fyrri verkefni | BREQ-1 úr V1, eiginleikar F-1 og F-3, þarfir lyftara og þróunarteymis úr V2. Fyrirvari: aðeins þeir sem kveikja á mælingu eru taldir, svo talan getur verið hærri en raunveruleg haldtala |
+
+### BO-2: Fleiri byrja að nota Settið án auglýsinga — 10% fjölgun nýrra notenda á mánuði
+
+| Atriði | Lýsing |
+|---|---|
+| Mælikvarði (Scale) | Prósentufjölgun nýrra notenda milli mánaða, án greiddra auglýsinga |
+| Mæliaðferð (Meter) | Sama nafnlausa auðkennið og í BO-1: þjónninn telur fjölda nýrra auðkenna á mánuði og ekkert annað fer úr símanum (lausn árekstrar í Verkefni 2). Engar auglýsingar eru keyptar, svo allur vöxtur er án auglýsinga |
+| Fyrri staða (Past) | Ekki þekkt enn, því Settið er ekki komið út. Hún verður til við fyrsta fulla mánuðinn eftir útgáfu og mánuðirnir á eftir bera sig saman við hann |
+| Markmið (Goal) | Að minnsta kosti 10% fjölgun nýrra notenda í hverjum mánuði innan sex mánaða frá útgáfu |
+| Metnaðarmarkmið (Stretch) | 15% á mánuði |
+| Tengsl við fyrri verkefni | BREQ-2 úr V1 og eiginleikar F-2 og F-3. Samkvæmt BREQ-2 segir sá sem slær met eða veit loksins hvað hann á að gera vinum sínum frá appinu. Fyrirvari: aðeins þeir sem kveikja á mælingu eru taldir, svo talan getur verið lægri en raunveruleg fjölgun |
+
+### BO-3: Notendur sjá að þeir eru að bæta sig — 70% innan sex mánaða frá útgáfu
+
+| Atriði | Lýsing |
+|---|---|
+| Mælikvarði (Scale) | Hlutfall notenda sem hafa skráð æfingar í þrjá mánuði og svara því játandi að þeir sjái í appinu að þeir séu að bæta sig |
+| Mæliaðferð (Meter) | Ein valfrjáls könnuspurning í ytra könnunartóli, sem appið vísar á eftir þrjá mánuði. Engin æfingagögn fara úr símanum og þjónninn fær ekkert nýtt (C-2 og BRG-1 haldast) |
+| Fyrri staða (Past) | Ekki þekkt enn. Hún mælist með því að spyrja sömu spurningar fólk sem lyftir í dag og skráir æfingarnar sínar annars staðar, t.d. í minnisbók í símanum |
+| Markmið (Goal) | 70% þeirra sem svara |
+| Metnaðarmarkmið (Stretch) | 85% þeirra sem svara |
+| Tengsl við fyrri verkefni | F-3, UR-2 og UR-5 úr V1 og hópurinn „Sér engar framfarir“ í V2. Þeir sem sjá framfarir hafa ástæðu til að halda áfram (BO-1) og segja vinum frá (BO-2). Fyrirvari: þeir sem svara eru líklega ánægðari en hinir |
 
 
 ## 2. Framtíðarsýn
