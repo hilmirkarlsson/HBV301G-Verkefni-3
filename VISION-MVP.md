@@ -106,12 +106,11 @@ og þarfir og væntingar lykilhagsmunaaðila.
 
 | Vídd | Flokkun | Rökstuðningur |
 |---|---|---|
-| Eiginleikar | [Driver / Constraint / Degree of freedom] | [Hvaða eiginleikar skipta mestu máli og hvers vegna?] |
-| Gæði | [Driver / Constraint / Degree of freedom] | [Hvaða gæði þurfa að ná tilteknu marki?] |
-| Tímasetningar | [Driver / Constraint / Degree of freedom] | [Er afhending á ákveðnum tíma nauðsynleg eða sveigjanleg?] |
-| Kostnaður | [Driver / Constraint / Degree of freedom] | [Er fastur fjárhagsrammi eða svigrúm til breytinga?] |
-| Mannafli | [Driver / Constraint / Degree of freedom] | [Er teymisstærð eða aðgengi að fólki fast eða sveigjanlegt?] |
-
+| Eiginleikar | Driver | Viðskiptamarkmiðin ganga út á að fólk haldi áfram að nota appið (BO-1) og segi vinum frá því (BO-2). Það á líka að sjá að það er að bæta sig (BO-3). Til þess þurfa æfingaskráning (F-1) og framfarir (F-3) að virka vel. Æfingaplanið (F-2) hjálpar líka en kemur á eftir. Methafinn úr kafla 3 þarf F-1 og F-3 til að nenna að opna appið á hverri æfingu |
+| Gæði | Constraint | Sum gæði eru föst úr Verkefni 1. Aðgerðir klárast á undir 2 sekúndum í 95% tilvika (QA-1). Appið virkar án nets (SR-1). Gögnin eru eign notandans (BRG-1) og aðgengi er eftir WCAG (BRG-2). Methafinn þolir ekki hægt eða flókið viðmót. Við slökum því ekki á þessu |
+| Tímasetningar | Degree of freedom | Enginn bíður eftir ákveðnum útgáfudegi. Sex mánaða fresturinn í BO-1 til BO-3 telur frá útgáfu og færist því með henni. Flest æfingaöpp eru prófuð í viku og gleymd (BREQ-1). Ef fólk hættir að nota hálfkláraða útgáfu næst ekki markmiðið í BO-1 um að það haldi áfram að nota appið. Það er betra að gefa út seinna en of snemma. Ef eiginleikar eða gæði taka lengri tíma bíður útgáfan |
+| Kostnaður | Constraint | Enginn fjárhagsrammi er til. Appið er ekki með þjón fyrir gögn notandans (C-2). BO-2 gerir ráð fyrir vexti án auglýsinga |
+| Mannafli | Constraint | Við Hilmir og Silja erum tvö. Það breytist ekki. Þess vegna getum við ekki smíðað alla eiginleikana í einu og veljum bara það nauðsynlegasta í fyrstu útgáfuna (kafli 5). Við þurfum líka að láta appið virka fyrir bæði Android og iOS (C-1) |
 
 ## 5. Umfang fyrstu útgáfu (MVP)
 
